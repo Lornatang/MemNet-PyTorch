@@ -69,4 +69,4 @@ if mode == "test":
     hr_dir = f"./data/Set5/GTmod12"
     sr_dir = f"./results/test/{exp_name}"
 
-    model_path = "./results/pretrained_models/MemNet_M6R6_x2-TB291-2096ee7f.pth.tar"
+    model_path = "./results/pretrained_models/MemNet_M6R6_x2-T91-2096ee7f.pth.tar"
